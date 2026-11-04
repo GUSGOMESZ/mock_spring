@@ -17,7 +17,7 @@ import br.com.valueprojects.mock_spring.model.Resultado;
 
 
 
-public class JogoDao {
+public class JogoDao implements RepositorioDeJogos {
 
 	private Connection conexao;
 

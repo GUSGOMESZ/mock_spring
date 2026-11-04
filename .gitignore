@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Arquivos locais que nao devem ir para o repo ###
+*.zip
+nul
